@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+fK1V1UIRorNHAjXlk97fz0oBOk1j3MhgUOuR0/nHcpGKOAZ9AjYdR9emBpi3KtORoAYAo6T6oAcrqLK/zqsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Computer-Nutzer\\source\\repos\\fancy-calc 1\\FancyCalc\\FancyCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer-Nutzer\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
